@@ -1,5 +1,9 @@
 #  Repositório de Materiais de Engenharia Biomédica - Bioeletrónica (ISEC)
 
+⚠ Repositório em atualização ⚠ Para visualizar todos os ficheiro, acesse o link a baixo:
+
+https://isecpt-my.sharepoint.com/:f:/g/personal/a2020153500_isec_pt/Et_Ks61dsXFPkawui_DtKOQBmwq2ZNPjJIQsW2sak5nC7A?e=T6PCB1
+
 🔬 Bem-vindo ao repositório onde partilho os materiais que me acompanharam durante a minha licenciatura em Engenharia Biomédica - Bioeletrónica no Instituto Superior de Engenharia de Coimbra. Este espaço é dedicado a todos os estudantes que continuam a sua jornada académica, fornecendo recursos valiosos que utilizei ao longo do meu percurso.
 
 ## 📚 Conteúdos do Repositório:
